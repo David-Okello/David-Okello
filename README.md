@@ -1,4 +1,6 @@
+<!-- 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=David-Okello.David-Okello"/>
+-->
 
 ### Hey there, I'm David👋
 #### A Student, Developer and CS Enthusiast!!
@@ -6,6 +8,7 @@
 <hr style="border: 0; border-top: 1px solid #fff; margin: 10px 0;">
 
 ![Cool Duck Gif](https://raw.githubusercontent.com/David-Okello/David-Okello/main/GithubCoolDuck.gif)
+[![GitHub stars](https://img.shields.io/github/stars/David-Okello/David-Okello.svg?style=social&label=Star)](https://github.com/David-Okello/David-Okello) Click the star you little cool duck!
 
 <hr style="border: 0; border-top: 1px solid #fff; margin: 10px 0;">
 
