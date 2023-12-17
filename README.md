@@ -30,6 +30,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=David-Okello&show_icons=true&theme=radical"/>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=David-Okello&theme=dark&hide_border=false"/>-->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Okello&layout=compact"/>
 </div>
 
