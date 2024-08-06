@@ -28,14 +28,6 @@
 
 <hr style="border: 0; border-top: 1px solid #fff; margin: 10px 0;">
 
-<div style="display: flex; justify-content: space-between;">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=David-Okello&show_icons=true&theme=radical"/>
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=David-Okello&theme=dark&hide_border=false"/>-->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Okello&layout=compact"/>
-</div>
-
-<hr style="border: 0; border-top: 1px solid #fff; margin: 10px 0;">
-
 ### Languages and Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
