@@ -24,7 +24,9 @@
 - 👯 Looking to collaborate with other developers
 - 👯 Looking to learn as much as I can and grow
 - 🥅 2023 Goals: Contribute and Collaborate more while self-improving
-- ⚡ Fun fact: I love to sketch, play piano, write, read novels, watch anime and movies and have fun while mainting a progressive mindset
+<!--
+- ⚡ Fun fact: I love to sketch, play piano, write, read novels, watch anime and movies and have fun while mainting a progressive mindset 
+-->
 
 <hr style="border: 0; border-top: 1px solid #fff; margin: 10px 0;">
 
